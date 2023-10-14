@@ -1,4 +1,4 @@
-# Pizza Please
+# Pizza, Please!
 Pizza, Please! - UI Design Project
 
 Welcome to the "Pizza Please" UI design project repository. This project was created to showcase my UI design skills and serves as a part of my portfolio.
